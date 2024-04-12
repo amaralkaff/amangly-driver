@@ -50,7 +50,3 @@ The user-mode application communicates with the kernel-mode driver to perform me
   ```
   This project is intended for educational purposes and should not be used for unethical or malicious activities.
   ```
-
----
-
-Feel free to customize and expand upon this README.md summary as needed, providing additional details or instructions specific to your project.
